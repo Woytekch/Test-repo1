@@ -1,0 +1,9 @@
+To jest opis, który robiłem zawsze i będę go robił zawsze. 
+Aczkolwiek nie zawsze 
+int k = 0;
+int l=0;
+for(int i =0;i<33;++i)
+{
+  ++k;
+  l+=2;
+}
